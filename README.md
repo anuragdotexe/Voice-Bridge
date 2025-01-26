@@ -123,7 +123,7 @@ Feel free to fork this repo, open issues, or submit pull requests. Let’s build
 
 ## 📧 Contact
 
-If you have any questions or ideas, hit me up at **your-email@example.com** or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+If you have any questions or ideas, hit me up on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anurag-111-roy/)).
 
 ---
 
